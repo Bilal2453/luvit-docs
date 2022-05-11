@@ -274,7 +274,7 @@ Sync chmod.
 
 Asynchronous fchmod(2). No arguments other than a possible exception are given to the completion callback.
 
-## fs.fchmodSync(fd, mode0
+## fs.fchmodSync(fd, mode)
 
 Sync fchmod
 
