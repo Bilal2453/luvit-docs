@@ -81,7 +81,7 @@ the end of the file.
 Synchronous version of `fs.open()`. Returns an integer representing the file
 descriptor.
 
-## fs.read(fd, [, size, offset], callback)
+## fs.read(fd[, size, offset], callback)
 
 Read data from the file specified by `fd`.
 
